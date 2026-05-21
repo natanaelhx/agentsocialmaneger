@@ -24,6 +24,7 @@ Nao trate "permissao uma vez" como permissao ilimitada. Converta a permissao em 
 Leia somente o arquivo necessario para a tarefa:
 
 - Rodar o wizard completo de conexao, permissao, teste e ativacao: `references/connection-wizard.md`.
+- Escolher formas simples de autenticacao antes de implementar OAuth completo: `references/simple-auth.md`.
 - Conectar contas, validar tokens, mapear APIs ou webhooks: `references/integrations.md`.
 - Criar posts, carrosseis, scripts, imagens, thumbnails, calendarios ou publicacoes: `references/content-production.md`.
 - Responder comentarios, moderar comunidade ou operar directs: `references/community-management.md`.
