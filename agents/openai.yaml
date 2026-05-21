@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Social Maneger"
+  short_description: "Manager social para conteudo, comunidade e Ads"
+  default_prompt: "Use $agent-social-maneger para planejar, publicar e otimizar minhas redes sociais com limites de seguranca."
